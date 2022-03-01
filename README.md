@@ -19,7 +19,7 @@
 
 ## Setup & Running
 - Clone repo `https://github.com/Willbeckh/flask-app-logging.git`
-- Open IDE & `cd flask-app-logging`
+- Open IDE & `cd logging-with-flask`
 - create a `.env` file, and add environment variables 
 - such as; 
    - `FLASK_APP=app.py`
